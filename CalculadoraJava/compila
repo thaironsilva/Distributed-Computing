@@ -1,0 +1,5 @@
+rm *.class
+javac Page.java
+javac PageServer.java
+javac PageClient.java
+javac ShowBindings.java
